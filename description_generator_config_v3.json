@@ -1,0 +1,31 @@
+{
+    "credentials_var": "C:/ebaylisting/watch/jan/acquired-script-447815-s9-936808e42236.json",
+    "openai_api_key_var": "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",
+    "spreadsheet_id_var": "1Kc4LCrnOuUmD4TT0Kc99cN6RnODtax_mK5wtbdpz1aI",
+    "sheet_name_var": "\u96c6\u8a08",
+    "start_row_var": "2",
+    "batch_size_var": "20",
+    "translation_delay_var": "1.0",
+    "batch_delay_var": "5.0",
+    "selected_tab": 1,
+    "normal_mode": {
+        "input_col": "A",
+        "translated_name_col": "K",
+        "jan_code_col": "L",
+        "description_col": "I",
+        "output_col": "Q"
+    },
+    "book_mode": {
+        "trigger": "A",
+        "product_name": "AF",
+        "author": "F",
+        "publisher": "H",
+        "release_date": "I",
+        "language": "J",
+        "pages": "K",
+        "isbn10": "O",
+        "isbn13": "P",
+        "dimensions": "Q",
+        "output": "AJ"
+    }
+}
