@@ -1,6 +1,6 @@
 {
     "credentials_var": "C:/ebaylisting/watch/jan/acquired-script-447815-s9-936808e42236.json",
-    "openai_api_key_var": "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",
+    "openai_api_key_var": "",
     "spreadsheet_id_var": "1Kc4LCrnOuUmD4TT0Kc99cN6RnODtax_mK5wtbdpz1aI",
     "sheet_name_var": "\u96c6\u8a08",
     "start_row_var": "2",
@@ -28,4 +28,5 @@
         "dimensions": "Q",
         "output": "AJ"
     }
+
 }
